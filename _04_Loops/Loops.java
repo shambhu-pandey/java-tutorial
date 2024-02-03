@@ -40,8 +40,6 @@
 
 // DO WHILE LOOP 
 
-package _04_Loops;
-
 public class Loops {
   public static void main(String[] args) {
     int i = 1;
